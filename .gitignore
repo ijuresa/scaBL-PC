@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+/build-scaBL-Desktop_Qt_5_12_2_MinGW_64_bit-Debug/.qmake.stash
+/build-scaBL-Desktop_Qt_5_12_2_MinGW_64_bit-Debug/Makefile
+/build-scaBL-Desktop_Qt_5_12_2_MinGW_64_bit-Debug/Makefile.Debug
+/build-scaBL-Desktop_Qt_5_12_2_MinGW_64_bit-Debug/Makefile.Release
+/build-scaBL-Desktop_Qt_5_12_2_MinGW_64_bit-Debug/debug/moc_main_window.cpp
+/build-scaBL-Desktop_Qt_5_12_2_MinGW_64_bit-Debug/debug/moc_predefs.h
+/build-scaBL-Desktop_Qt_5_12_2_MinGW_64_bit-Debug/debug/moc_serial_port.cpp
+/build-scaBL-Desktop_Qt_5_12_2_MinGW_64_bit-Debug/ui_main_window.h
+/build-scaBL-Desktop_Qt_5_12_2_MinGW_64_bit-Debug/usersjura611appdatalocaltemptmpf2xs1t
